@@ -54,3 +54,18 @@ Start the quiz by selecting a category and difficulty level.
 Answer multiple-choice questions by clicking on an option.
 Get instant feedback and track your score.
 View the final results at the end of the quiz
+
+
+## 🤝 Contributing
+Contributions are welcome! Follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m "Added a new feature").
+Push to the branch (git push origin feature-branch).
+Create a Pull Request for review.
+
+## 🔗 Links
+🚀 Live Demo (if hosted)
+
+

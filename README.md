@@ -43,7 +43,10 @@ cd react-quiz-app
 npm install
 npm start
 ## 🖼️screenshots
-![Quiz Screenshot] (C:\Users\HP\OneDrive\Desktop\React-quiz-02\client\screenshots\home.png)
+![Image](https://github.com/user-attachments/assets/1caaf07d-7fc6-4420-b3d5-a69d54d49931)
+
+![Image](https://github.com/user-attachments/assets/e494a994-9ccc-4ba6-b1ce-56ee6c86f07c)
+![Image](https://github.com/user-attachments/assets/976cc3a9-288b-4bc9-9422-0888c9ac6dd5)
 
 
 ## 📌 Usage

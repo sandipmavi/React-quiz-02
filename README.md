@@ -40,3 +40,14 @@ This is a **frontend React-based Quiz Application** that fetches questions from 
 Clone the repository:
 git clone https://github.com/sandipmavi/React-quiz-02.git
 cd react-quiz-app
+npm install
+npm start
+## 🖼️screenshots
+![Quiz Screenshot] (C:\Users\HP\OneDrive\Pictures\Screenshots\115406.png)
+
+
+## 📌 Usage
+Start the quiz by selecting a category and difficulty level.
+Answer multiple-choice questions by clicking on an option.
+Get instant feedback and track your score.
+View the final results at the end of the quiz

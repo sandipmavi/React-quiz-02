@@ -1,7 +1,7 @@
 # 🎯 React Quiz Application
 
 ## 📖 Description
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> eb8fef0 (first commit)
@@ -10,7 +10,7 @@ This is a **frontend React-based Quiz Application** that fetches questions from 
 ---
 
 ## 🚀 Features
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> eb8fef0 (first commit)
@@ -24,7 +24,7 @@ This is a **frontend React-based Quiz Application** that fetches questions from 
 ---
 
 ## 🛠️ Tech Stack
-<<<<<<< HEAD
+
 | **Technology**  | **Used For**            |
 |---------------|------------------------|
 | React        | Frontend UI             |
@@ -46,7 +46,7 @@ This is a **frontend React-based Quiz Application** that fetches questions from 
 ---
 
 ## 🔧 React Concepts Used
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> eb8fef0 (first commit)
@@ -65,9 +65,6 @@ git clone https://github.com/sandipmavi/React-quiz-02.git
 cd react-quiz-app
 npm install
 npm start
-<<<<<<< HEAD
-## 🖼️screenshots
-=======
 
 ## 🖼️screenshots
 
@@ -76,11 +73,6 @@ npm start
 
 ![Image](https://github.com/user-attachments/assets/e494a994-9ccc-4ba6-b1ce-56ee6c86f07c)
 ![Image](https://github.com/user-attachments/assets/976cc3a9-288b-4bc9-9422-0888c9ac6dd5)
-
-<<<<<<< HEAD
-
-## 📌 Usage
-=======
 ## 📌 Usage
 
 >>>>>>> eb8fef0 (first commit)
@@ -88,11 +80,6 @@ Start the quiz by selecting a category and difficulty level.
 Answer multiple-choice questions by clicking on an option.
 Get instant feedback and track your score.
 View the final results at the end of the quiz
-
-<<<<<<< HEAD
-
-## 🤝 Contributing
-=======
 ## 🤝 Contributing
 
 >>>>>>> eb8fef0 (first commit)
@@ -105,7 +92,7 @@ Push to the branch (git push origin feature-branch).
 Create a Pull Request for review.
 
 ## 🔗 Links
-<<<<<<< HEAD
+
 🚀 Live Demo (if hosted)
 
 

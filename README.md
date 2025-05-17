@@ -3,11 +3,7 @@
 ## 📖 Description
 
 
-
-
 This is a **frontend React-based Quiz Application** that fetches questions from an external API and allows users to test their knowledge. The application utilizes various **React hooks** and concepts to manage state, handle user interactions, and ensure a smooth quiz experience.
-
-
 
 ## 🚀 Features
 
@@ -67,10 +63,10 @@ This is a **frontend React-based Quiz Application** that fetches questions from 
 - Answer multiple-choice questions by clicking on an option.
 - Get instant feedback and track your score.
 - View the final results at the end of the quiz
-## 🤝 Contributing
 
 
-#### Contributions are welcome! Follow these steps:
+
+## Contributions are welcome! Follow these steps:
 
 - Fork the repository.
 - Create a new branch (git checkout -b feature-branch).
